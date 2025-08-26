@@ -1817,7 +1817,7 @@
           {
             "kind": "Function",
             "name": "launchPayment",
-            "printedName": "launchPayment(token:isSwiftUI:)",
+            "printedName": "launchPayment(token:isSwiftUI:paymentMethodConfigurationId:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1835,11 +1835,26 @@
                 "name": "Bool",
                 "printedName": "Swift.Bool",
                 "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:22PostFinanceCheckoutSdkAAC13launchPayment5token9isSwiftUIySS_SbtF",
-            "mangledName": "$s22PostFinanceCheckoutSdkAAC13launchPayment5token9isSwiftUIySS_SbtF",
+            "usr": "s:22PostFinanceCheckoutSdkAAC13launchPayment5token9isSwiftUI28paymentMethodConfigurationIdySS_SbSiSgtF",
+            "mangledName": "$s22PostFinanceCheckoutSdkAAC13launchPayment5token9isSwiftUI28paymentMethodConfigurationIdySS_SbSiSgtF",
             "moduleName": "PostFinanceCheckoutSdk",
             "intro_iOS": "13.0",
             "declAttributes": [
