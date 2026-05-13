@@ -1,0 +1,6 @@
+framework module PostFinanceCheckoutSdk {
+  umbrella header "PostFinanceCheckoutSdk.h"
+  export *
+
+  module * { export * }
+}
