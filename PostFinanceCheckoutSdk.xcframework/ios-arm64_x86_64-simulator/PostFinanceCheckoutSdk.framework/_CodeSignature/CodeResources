@@ -182,7 +182,7 @@
 		</data>
 		<key>Frameworks/TwintSDK.framework/TwintSDK</key>
 		<data>
-		o0BjHuxoBySHuHG+3bS973A5ECQ=
+		wetrjp0J6Sa2GxI7g2xoleAMX6E=
 		</data>
 		<key>Frameworks/TwintSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -198,11 +198,11 @@
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zC9jV0JZf1Rzayb+qakeZtmh1OE=
+		my4NtbVdtxxMX+jSsttVWwXhtxw=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		WGdZXcOyOZABWRE93xMU9MN51tc=
+		fYiBkIci1RN8vGmrFg/ftqWNUP0=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -623,7 +623,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhsB0kYPyS7x5JbAjtYZ4U9/UMhBw3nib25dUyC4VRE=
+			UqyzUVw7TpGxFdRrgrJMIQbm9Nd1dj4ISw4Nm3ZOxdo=
 			</data>
 		</dict>
 		<key>Frameworks/TwintSDK.framework/_CodeSignature/CodeResources</key>
@@ -644,14 +644,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j0r5h206NYF3yHgd+5D5qxc2TRBzDHR0e+Inqwtb+Ts=
+			v5bxg7FSOpgIkDs0X1Wu5hB0Gk2cyaEtiuBTcMcV7Q0=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NBqPiDeaDIOKhsuM2bQ+EuoY84e7WZTKHyocVVQ31/I=
+			pDCHbvCiB0Jz5famrco+TosRYPWdn3KtngrsFu7UIPw=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
