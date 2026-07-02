@@ -14,15 +14,15 @@
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		th/0zz1/hsk2fIR1UZYXgfcbKY4=
+		TyDrvvO8TrDwfS7XlMzOmXZg7m8=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		fr2r+UDzL/w6geza6EIqiIjYBjY=
+		rEi2Qd23TN9V+WYvhBsZ0QR/pYA=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		yuepJx7yUA0YZyYakDJZzYbWF7k=
+		bd3DTA2Jj116NdYTYzt9fXxWRSw=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mtRKULvIYbYasC6LP059wgkiu2g=
+		/mCQFq0gm2n7WtYYyH1xApt9fyE=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		yuepJx7yUA0YZyYakDJZzYbWF7k=
+		bd3DTA2Jj116NdYTYzt9fXxWRSw=
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CxhxGqxZRKw3NSrxtKXoF17yjZY=
+		o21mfxuP6iVPE1ai5i1FdzCxQTo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -138,21 +138,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cn5z5z4OkTDSsc+3aRPB3/Iz1hP2j6zA81bC/CckoZE=
+			gTo7yatHqgH3SQpJX6t5AYJ+LxCFoViw4BuRdFhtJPY=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibUh6ui1D7hL0oGxSEBCgR/dMLv7TwvT+7+ZFpleCH0=
+			iTDumHPLOgam91xmGSx91SL2AFLQ8ImqFOXfflVvocw=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kb3Xn4r/YIpRSeFdd48qWv+TO8vdi5fAU2JdVpo0UFA=
+			StIJ/FHvkHPdXFuIyHzDesWhz1OF+e1SwwoJ9EJDLuw=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -180,14 +180,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ACfDVFX6dEpGKTVLG7xOmpt2Zex3SXaSxzumDlaHtdk=
+			otpQ9dFIBITWGZ5bqRM6rin73NIKVsp66fm332bb/9k=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kb3Xn4r/YIpRSeFdd48qWv+TO8vdi5fAU2JdVpo0UFA=
+			StIJ/FHvkHPdXFuIyHzDesWhz1OF+e1SwwoJ9EJDLuw=
 			</data>
 		</dict>
 		<key>Modules/PostFinanceCheckoutSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -215,7 +215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qFQA8qA1tK7JHH2MW7XmdHtFAkAaoySbucAhM+r98gg=
+			fzwaezXQAE1AXzJiLC2oWHXAwI/x2kQcUOVRUAXC3NM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
